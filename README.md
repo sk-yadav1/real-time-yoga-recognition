@@ -20,7 +20,7 @@ https://archive.org/details/YogaVidCollected
 Feel free to adjust predictSeq.py input folder and the weights. Contact us for any issues not resolved by adjusting file paths.
 You can also use the video files in your project.
 
-# Real-time demo:
+#### Real-time demo:
 
 [![Demo](https://img.youtube.com/vi/C_629XEmd1Q/maxresdefault.jpg)](https://youtu.be/C_629XEmd1Q)
 
