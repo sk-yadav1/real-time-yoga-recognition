@@ -1,13 +1,13 @@
 # Yoga Pose Recognition
 #### Code repository for the "Real-time Yoga recognition using deep learning", Neural Computing and Applications (NCAA), Springer, 2019.
 
-### Paper: 
+### Paper:
 https://link.springer.com/article/10.1007/s00521-019-04232-7
 
 ### Video files used to train the model:
 https://archive.org/details/YogaVidCollected
 
-### To run it on your system-
+### To run it on your system:
 
 1. Install and setup OpenPose https://github.com/CMU-Perceptual-Computing-Lab/openpose
 2. Run the OpenPose on webcam mode and direct the results to \output
@@ -25,7 +25,7 @@ You can also use the video files in your project.
 
 Yadav, S. K., Singh, A., Gupta, A., & Raheja, J. L. (2019). Real-time Yoga recognition using deep learning. Neural Computing and Applications, 31(12), 9349-9361.
 
-### Bibtex
+### Bibtex:
 
 @article{yadav2019real,
   title={Real-time Yoga recognition using deep learning},
