@@ -1,5 +1,5 @@
 # Yoga Recognition
-#### Code repo for Real-time Yoga recognition using deep learning, NCAA, Springer, 2019
+#### Code repository for the "Real-time Yoga recognition using deep learning", Neural Computing and Applications (NCAA), Springer, 2019.
 
 #### Paper: 
 https://link.springer.com/article/10.1007/s00521-019-04232-7
@@ -12,14 +12,15 @@ https://archive.org/details/YogaVidCollected
 
 #### To run it on your system-
 
-1. Install and setup openpose https://github.com/CMU-Perceptual-Computing-Lab/openpose
-2. Run the open pose on webcam mode and direct the results to \output
+1. Install and setup OpenPose https://github.com/CMU-Perceptual-Computing-Lab/openpose
+2. Run the OpenPose on webcam mode and direct the results to \output
 3. Run prediction and write output to file python predictSeq.py > export.txt
 or Run prediction and show output on terminal python predictSeq.py
 
-Feel free to adjust predictSeq.py input folder and the weights. Contact me for any issues not resolved by adjusting file paths.
+Feel free to adjust predictSeq.py input folder and the weights. Contact us for any issues not resolved by adjusting file paths.
+You can also use the video files in your project.
 
-You can also use the video files in your project. 
+You may visit https://youtu.be/C_629XEmd1Q for real-time demo of the code.
 
 Please cite as:
 
