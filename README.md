@@ -1,7 +1,7 @@
-# Yoga Recognition
+# Yoga Pose Recognition
 #### Code repository for the "Real-time Yoga recognition using deep learning", Neural Computing and Applications (NCAA), Springer, 2019.
 
-#### Paper: 
+## Paper: 
 https://link.springer.com/article/10.1007/s00521-019-04232-7
 
 #### Weights and converted training files:
