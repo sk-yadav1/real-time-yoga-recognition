@@ -10,12 +10,12 @@ https://archive.org/details/YogaVidCollected
 ### To run it on your system:
 
 1. Install and setup OpenPose https://github.com/CMU-Perceptual-Computing-Lab/openpose
-2. Run the OpenPose on webcam mode and direct the results to \output
+2. Run the OpenPose on webcam mode and direct the results to \output folder.
 3. Run prediction and write output to file python predictSeq.py > export.txt
    or Run prediction and show output on terminal python predictSeq.py
 
-Feel free to adjust predictSeq.py input folder and the weights. Contact us for any issues not resolved by adjusting file paths.
-You can also use the video files in your project.
+Feel free to adjust predictSeq.py input folder and the weights. You can also use the video files in your project. 
+Contact us for any issues not resolved by adjusting file paths.
 
 ### Real-time demo:
 
