@@ -4,6 +4,9 @@
 ### Paper:
 https://link.springer.com/article/10.1007/s00521-019-04232-7
 
+### Weights and converted training files:
+https://drive.google.com/drive/folders/1rxPzNUl585lmWYeKMpEhIbz6Gx8liHx5?usp=sharing
+
 ### Video files used to train the model:
 https://archive.org/details/YogaVidCollected
 
