@@ -40,4 +40,3 @@ Yadav, S. K., Singh, A., Gupta, A., & Raheja, J. L. (2019). Real-time Yoga recog
   year={2019},
   publisher={Springer}
 }
-
