@@ -7,7 +7,7 @@
 ### Weights and converted training files:
    https://drive.google.com/drive/folders/1rxPzNUl585lmWYeKMpEhIbz6Gx8liHx5?usp=sharing
 
-### Video files used to train the model:
+### Video dataset used to train the model:
    https://archive.org/details/YogaVidCollected
 
 ### To run it on your system:
