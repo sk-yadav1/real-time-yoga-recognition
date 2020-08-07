@@ -1,4 +1,4 @@
-# Yoga Pose Recognition
+## Yoga Pose Recognition
 #### Code repository for the "Real-time Yoga recognition using deep learning", Neural Computing and Applications (NCAA), Springer, 2019.
 
 ### Paper:
